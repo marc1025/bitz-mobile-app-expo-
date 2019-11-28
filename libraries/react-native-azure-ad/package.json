@@ -1,0 +1,55 @@
+{
+  "_args": [
+    [
+      "react-native-azure-ad@0.2.4",
+      "/Users/aelizondo/Desktop/Bitz-App(test)"
+    ]
+  ],
+  "_from": "react-native-azure-ad@0.2.4",
+  "_id": "react-native-azure-ad@0.2.4",
+  "_inBundle": false,
+  "_integrity": "sha1-4IsEYp8ijjGE6FibBlxnJ0SHjiQ=",
+  "_location": "/react-native-azure-ad",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "react-native-azure-ad@0.2.4",
+    "name": "react-native-azure-ad",
+    "escapedName": "react-native-azure-ad",
+    "rawSpec": "0.2.4",
+    "saveSpec": null,
+    "fetchSpec": "0.2.4"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-azure-ad/-/react-native-azure-ad-0.2.4.tgz",
+  "_spec": "0.2.4",
+  "_where": "/Users/aelizondo/Desktop/Bitz-App(test)",
+  "author": {
+    "name": "wkh237"
+  },
+  "bugs": {
+    "url": "https://github.com/wkh237/react-native-azure-ad/issues"
+  },
+  "description": "A Azure AD authentication library implementation uses pure react native API (no native library needed).",
+  "homepage": "https://github.com/wkh237/react-native-azure-ad#readme",
+  "keywords": [
+    "azure",
+    "azureAD",
+    "active directory",
+    "react-native",
+    "oauth"
+  ],
+  "license": "MIT",
+  "main": "src/index.js",
+  "name": "react-native-azure-ad",
+  "repository": {
+    "url": "git+https://github.com/wkh237/react-native-azure-ad.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.2.4"
+}
